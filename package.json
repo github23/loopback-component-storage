@@ -1,5 +1,5 @@
 {
-  "name": "loopback-component-storage",
+  "name": "loopback-component-storage-fork",
   "description": "Loopback Storage Service",
   "engines": {
     "node": ">=4"
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/loopback-component-storage.git"
+    "url": "https://github.com/github23/loopback-component-storage.git"
   },
   "license": "Artistic-2.0"
 }
